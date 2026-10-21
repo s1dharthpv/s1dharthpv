@@ -1,6 +1,19 @@
-# Hi, I'm Sidharth
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Sidharth, ERPNext / Frappe developer" src="assets/banner-light.svg" width="100%">
+</picture>
 
-ERPNext / Frappe developer. I build apps on the Frappe framework and open-source the parts other teams can reuse.
+## About
+
+I build apps on the Frappe framework and open-source the parts other teams can reuse. My focus is manufacturing and workflow on ERPNext.
+
+## Featured
+
+### [floorgraph](https://github.com/s1dharthpv/floorgraph)
+
+A governed action-graph MES layer for ERPNext: OEE, downtime tracking, finite-capacity scheduling and webhook-based machine events, with every change going through one approval and audit pipeline. Tested on ERPNext v15 and v16.
+
+[![floorgraph shop-floor dashboard](https://raw.githubusercontent.com/s1dharthpv/floorgraph/main/docs/screenshots/shop-floor.jpg)](https://github.com/s1dharthpv/floorgraph)
 
 ## Open source
 

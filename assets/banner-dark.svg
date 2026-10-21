@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Sidharth, ERPNext and Frappe developer">
+  <rect width="1280" height="320" fill="#0d1117"/>
+  <rect x="96" y="92" width="48" height="4" rx="2" fill="#58a6ff"/>
+  <text x="96" y="168" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#f0f6fc">Sidharth</text>
+  <text x="96" y="214" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#c9d1d9">ERPNext / Frappe developer</text>
+  <text x="96" y="252" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#8b949e">Manufacturing, workflow and tooling apps on Frappe</text>
+</svg>
