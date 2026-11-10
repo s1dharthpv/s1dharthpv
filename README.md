@@ -1,19 +1,22 @@
 # Hi, I'm Sidharth
 
-ERPNext / Frappe developer. I build apps on the Frappe framework and open-source the parts other teams can reuse.
+Frappe / ERPNext developer in Kochi. I build apps on the Frappe framework and publish the parts other teams can reuse.
 
-## Open source
+## Frappe Marketplace apps
 
-| Project | What it does |
-|---|---|
-| [floorgraph](https://github.com/s1dharthpv/floorgraph) | Governed action-graph MES layer for ERPNext |
-| [fieldbook](https://github.com/s1dharthpv/fieldbook) | Download an Excel spec sheet for any DocType, including custom fields |
-| [macux-theme](https://github.com/s1dharthpv/macux-theme) | macOS-inspired GTK theme for Ubuntu 24.04, one-command install |
+| App | What it does | Links |
+|---|---|---|
+| Floorgraph | Governed action-graph MES layer for ERPNext: OEE, downtime, finite-capacity scheduling | [Repo](https://github.com/s1dharthpv/floorgraph) / [Marketplace](https://cloud.frappe.io/marketplace/apps/floorgraph) |
+| Prefill | Save a filled form as a preset and apply it to new forms in one click | [Repo](https://github.com/s1dharthpv/prefill) / [Marketplace](https://cloud.frappe.io/marketplace/apps/prefill) |
+| Fieldbook | Download an Excel spec sheet for any DocType, including custom fields | [Repo](https://github.com/s1dharthpv/fieldbook) / [Marketplace](https://cloud.frappe.io/marketplace/apps/fieldbook) |
 
-## Stack
+## Also
 
-Python, Frappe / ERPNext, JavaScript, TypeScript, MariaDB
+Full-stack web development: React, Next.js, TypeScript and Python.
+
+Stack: Python, Frappe / ERPNext, JavaScript, TypeScript, React, Next.js, MariaDB.
 
 ## Links
 
 - Portfolio: [sidharth-portfolio.vercel.app](https://sidharth-portfolio.vercel.app/)
+- LinkedIn: [sidharth-thamban17](https://www.linkedin.com/in/sidharth-thamban17/)
